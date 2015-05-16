@@ -42,4 +42,12 @@ Each book club is a nightly event, usually taking around 3 hours. It’s usually
 - Having fun and creating conversations and a sense of community around Open Data is the most important goal.
 - Please let your local government people in charge of Open Data know about the event, and do forward them links to any presentations/apps/visualizations that were created during each book club. They will want to see it, trust us.
 
+## List of Open Data Book Clubs around
+
+You can submit your own by emailing us or opening a Pull Request on this repository
+
+- [Ottawa](http://www.meetup.com/Open-Data-Ottawa/)
+- [Montreal](http://www.meetup.com/mtldata/)
+- [Toronto](http://www.meetup.com/opentoronto/)
+
 ## History
