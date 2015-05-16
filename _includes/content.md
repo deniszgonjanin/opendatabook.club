@@ -8,14 +8,14 @@ Unlike a hackathon, an Open Data Book Club does not create expectations around p
 ## Objectives
 The Open Data Book Club serves a few important purposes:
 
-- Create sustainable local communities around Open Data.
+- Create ongoing conversations and sustainable communities around Open Data.
 - Direct the community’s abilities and energy around one topic at a time, creating focused discussion around a topical subset of your local Open Data.
-- Allow members enough time to have discussions, form groups, and create cool things. Unlike at a hackathon, the work happens in-between Book Club meetings.
+- Allow members enough time to have discussions, form groups, and create cool things. The 'hacking' happens in-between Book Club meetings.
 - Give the stakeholders inside local government an easy place to go to in order to find the value being created from the Open Data they are releasing.
 
 
 ## Format
-Below are some guidelines you may want to adopt. We have found them to work for us. But feel free to play around with the format of your own Book Club. Open Data is a global movement and different communities may warrant dxifferent approaches. If you have comments or improvements you’d like to suggest, send us an email or open a Pull Request on this page’s GitHub repository.
+Below are some guidelines you may want to adopt. We have found them to work for us. But feel free to play around with the format of your own Book Club. Open Data is a global movement and different communities may warrant different approaches. If you have comments or improvements you’d like to suggest, [send us an email](mailto:team@opendataottawa.ca) or open a Pull Request on this page’s [GitHub repository](https://github.com/deniszgonjanin/opendatabook.club).
 
 First, create a group/mailing list. Meetup works well, and so does social media. Get the word out about what is happening, when and where.
 
