@@ -1,5 +1,3 @@
-# Open Data Book Club
-
 ## What is it?
 Open Data Book Club is a monthly event where civic-minded individuals get together to talk about and present on the uses of Open Data.
 
