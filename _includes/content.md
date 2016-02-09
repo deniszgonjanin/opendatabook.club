@@ -49,6 +49,7 @@ You can submit your own by emailing us or opening a pull request on [this reposi
 - [Ottawa](http://www.meetup.com/Open-Data-Ottawa/)
 - [Montreal](http://www.meetup.com/mtldata/)
 - [Toronto](http://www.meetup.com/opentoronto/)
+- [Prince Edward Island](http://www.meetup.com/Open-Data-PEI/)
 
 ## History
 The first Open Data Book Club was held in October 2014 in Ottawa. The idea originated from some frustration with hackathons and app contests. Often, hack events take a lot of time and energy to plan and publicize, are competitive, and are one-off events that may not create a sustained conversation and community around the topics they address.
